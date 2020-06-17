@@ -1457,11 +1457,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\CICalc\\CICalc.csproj",
+      "projectUniqueName": "C:\\BlazorBrotli\\CICalc.csproj",
       "projectName": "CICalc",
-      "projectPath": "c:\\CICalc\\CICalc.csproj",
+      "projectPath": "C:\\BlazorBrotli\\CICalc.csproj",
       "packagesPath": "C:\\Users\\t-seshen\\.nuget\\packages\\",
-      "outputPath": "c:\\CICalc\\obj\\",
+      "outputPath": "C:\\BlazorBrotli\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

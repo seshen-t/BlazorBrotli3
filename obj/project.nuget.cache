@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A0qbwT/gfMUmQCyzEXEdnmNesCbKSV2r1wzL14QRdWgQAHxfUsWE+1QAK/GfM6KqlA54GgYe9TAWKmWxiMZvmA==",
+  "dgSpecHash": "nLE96SAwJMR4RqhiKfy0Qat4U67ovTB+BdJU23wAj5qqn72Jk/QOgKgaqj394aE0eFc0jyR2Jo6UHFjR9rWAqg==",
   "success": true,
-  "projectFilePath": "C:\\CICalc\\CICalc.csproj",
+  "projectFilePath": "C:\\BlazorBrotli\\CICalc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\t-seshen\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.3\\microsoft.aspnetcore.authorization.3.1.3.nupkg.sha512",
     "C:\\Users\\t-seshen\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.3\\microsoft.aspnetcore.components.3.1.3.nupkg.sha512",
